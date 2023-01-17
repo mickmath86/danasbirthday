@@ -35,7 +35,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              A puzzle for m'lady <span>-&gt;</span>
+              A puzzle for mlady <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
              Do this one first
@@ -49,7 +49,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={inter.className}>
-              Someone wants to say happy birthday :)?? <span>-&gt;</span>
+              Someone wants to say happy birthday ?? <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
 Who could it be            </p>
