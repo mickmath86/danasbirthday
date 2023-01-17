@@ -15,14 +15,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-       <div>
-        
-       </div> 
+     
       
         <div>
-          <h1>Its Dana's Birthday!!!</h1>
+          <h1>Its Danas Birthday!!!</h1>
         </div>
-        <h3>MA WAFE! :) -  on this special day I want to remind you how much you mean to me. You are my rock, my best friend, and the love of my life. I am so grateful to be spending another year of your life with you, and I am beyond excited to start this new chapter as parents to our son. I love you with all my heart and I can't wait to see all the amazing things we will accomplish together. Happy birthday my love, I'm looking forward to many more to come.</h3>
+        <h3>MA WAFE! -  on this special day I want to remind you how much you mean to me. You are my rock, my best friend, and the love of my life. I am so grateful to be spending another year of your life with you, and I am beyond excited to start this new chapter as parents to our son. I love you with all my heart and I cant wait to see all the amazing things we will accomplish together. Happy birthday my love, Im looking forward to many more to come.</h3>
         
 
         <div className={styles.grid}>
